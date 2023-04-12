@@ -17,4 +17,16 @@ h1.titulo
 #datos
 {
     float:left;
+    margin-right: 300px;
+    margin-top: 20px;
+}
+
+#eTabla
+{
+    min-width: 600px;
+}
+
+#iz
+{
+    min-width: 600px;
 }
