@@ -1,0 +1,133 @@
+#top
+{
+    background-color: #004f59;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    height: 10%;
+}
+#top-container
+{
+    display: flex;
+    align-items: center;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+    height: 100%;
+    width: 100%;
+}
+#icon
+{
+    margin-left: 20px;
+
+}
+#cuerpo
+{
+
+    height: 100vh;
+    padding-left: 0;
+    padding-right: 0;
+}
+#contenido
+{
+    background-color: #a6d6dd;
+    height: 92%;
+    text-align: center;
+}
+#center
+{
+    height: 30%;
+}
+#titulo
+{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width:400px; 
+    height:96px;
+}
+
+#imagenG
+{
+    background-color: #a6d6dd;
+    text-align: center;
+}
+
+#texto
+{
+    background-color: #a6d6dd;
+    text-align: center;
+}
+
+#pepper
+{
+    margin-left: 100px;
+    width: 432px;
+    height: 810px;
+}
+
+#parrafo
+{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    background-color:teal;
+    opacity: 0.6;
+    width:80%;
+    height: 80%;
+    border-radius: 5%;
+    border-color: black;
+    color: white;
+    text-align: center;
+}
+
+#link
+{
+    color: white;
+}
+
+#lista
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+span
+{
+    position: relative;
+    right: 150px;
+}
+li
+{
+    margin-left: 38%;
+}
+#suscrib
+{
+    margin-top: 50px;
+    margin-bottom: 0px;
+    height: 100px;
+}
+#datos
+{
+    align-items: center;
+    text-align: center;
+    background-image: url(https://i.pinimg.com/originals/a6/33/c7/a633c728d3687b051c46ae0ca55c0d0e.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#usuario
+{
+    margin-top: 0px;
+    margin-bottom: 100px;
+}
+#op
+{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    opacity: 0.8;
+    width: 400px;
+    border-radius: 5%;
+    color: white;
+}
